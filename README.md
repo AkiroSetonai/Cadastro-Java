@@ -24,3 +24,23 @@ O programa exibe um menu no terminal com as seguintes opções:
 ## 📚 finalidade do projeto
 
 a finalidade do projeto foi praticar tudo que aprendi de condicionais em Java: Switch cases, Arrays, Ifs e Elses, laços de repetição e Scanners
+
+## 🚀 Como executar
+
+1. Clone este repositório:
+
+```bash
+git clone https://github.com/AkiroSetonai/Cadastro-Java.git
+```
+2. Acesse o repositorio:
+
+```bash
+   cd cadastro-usuarios-java
+```
+
+3. Compile e execute com:
+
+```bash
+javac Cadastro.java
+java Cadastro
+```
