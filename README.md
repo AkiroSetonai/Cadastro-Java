@@ -26,7 +26,7 @@ O programa exibe um menu no terminal com as seguintes opções:
 
 ## 📚 finalidade do projeto
 
-a finalidade do projeto foi praticar tudo que aprendi de condicionais em Java: Switch cases, Arrays, Ifs e Elses, laços de repetição e Scanners
+a finalidade do projeto foi praticar tudo que aprendi ate o momento em Java: Switch cases, Arrays, Ifs e Elses, laços de repetição e Scanners
 
 ## 🚀 Como executar
 
