@@ -16,10 +16,13 @@ Este é um projeto simples de **cadastro de usuários** feito em Java, utilizand
 ## 📌 Como funciona
 
 O programa exibe um menu no terminal com as seguintes opções:
+
+```markdown
 1-Cadastro de Usuários
 2-listar Usuários cadastrados
 3-Excluir usuários cadastrados
 4-sair do menu
+```
 
 ## 📚 finalidade do projeto
 
